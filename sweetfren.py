@@ -59,7 +59,9 @@ def server1(i, name):
     *** Includes the critical fix to append '|Referer=' to the M3U stream URL ***
     """
     print("Running Server 1")
-    url = f"cdntvpotok.com/sweet/{name}.php"
+    url = f"http://cdntvpotok.com/sweet/{name}.php"
+    url = f"https://adult-tv-channels.com/tv/{name}.php"
+
     headers = {
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
         "Referer": REFERER_URL, 
