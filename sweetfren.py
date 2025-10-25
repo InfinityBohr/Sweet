@@ -11,7 +11,6 @@ CHANNEL_LOGO = "https://github.com/BuddyChewChew/gen-playlist/blob/main/docs/ch.
 
 # Define the required Referer URL for Server 1 streams
 REFERER_URL = "https://adult-tv-channels.com/"
-REFERER_URL = "https://sweet-tv.net/"
 # --- Utility Functions ---
 
 def create_nojekyll():
@@ -59,7 +58,6 @@ def server1(i, name):
     *** Includes the critical fix to append '|Referer=' to the M3U stream URL ***
     """
     print("Running Server 1")
-    url = f"http://cdntvpotok.com/sweet/{name}.php"
     url = f"https://adult-tv-channels.com/tv/{name}.php"
 
     headers = {
@@ -72,7 +70,7 @@ def server1(i, name):
         response.raise_for_status()
 
         # Flexible Regex (Fix for channel list detection)
-        match = re.search(r'(file|source):\s*["\']([^"\']+\.(m3u8|ts)[^"\']*)["\']', response.text)
+        match = re.search(r'(file):\s*["\']([^"\']+\.(m3u8|ts)[^"\']*)["\']', response.text)
         
         if match:
             stream_url = match.group(2)
@@ -142,7 +140,7 @@ def server3(hash, name):
 lis = [
     "playboy","brazzerstv", "hustlerhd", "hustlertv", "penthouse", "redlight", "penthousepassion", 
     "vivid", "dorcel", "superone", "oxax", "passie", "eroxxx", 
-    "playboy", "pinko", "extasy", "penthousereality", "kinoxxx", "pinkerotic", 
+     "pinko", "extasy", "penthousereality", "kinoxxx", "pinkerotic", 
     "pinkerotic7", "pinkerotic8", "evilangel", "private", "beate", "meiden", 
     "centoxcento", "barelylegal", "venus", "freextv", "erox", "passion", 
     "satisfaction", "jasmin", "fap", "olala", "miamitv",
