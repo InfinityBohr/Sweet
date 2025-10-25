@@ -24,7 +24,7 @@ jobs:
           pip install requests certifi
 
       - name: Run script to generate file
-        run: python script.py # replace with your actual script filename
+        run: python sweetfren.py # replace with your actual script filename
 
       - name: Commit and push generated file
         run: |
