@@ -30,7 +30,7 @@ def runServers():
 
     # Create a single combined playlist file with EPG URL
     # 'w' mode ensures a fresh start every run
-    with open("docs/combined_playlist.m3u", "w", encoding='utf-8-sig') as file:
+    with open("docs/playlist.m3u", "w", encoding='utf-8-sig') as file:
         file.write("#EXTM3U x-tvg-url=\"https://epgshare01.online/epgshare01/epg_ripper_DUMMY_CHANNELS.xml.gz\"\n")
         file.write(f"# Playlist Generated: {datetime.datetime.now().isoformat()}\n")
 
@@ -79,7 +79,7 @@ def server1(i, name):
             # Append the Referer instruction to the stream URL for the IPTV player (TiviMate)
             stream_url_with_referer = f'{stream_url}|Referer={REFERER_URL}' 
             
-            with open("docs/combined_playlist.m3u", "a", encoding='utf-8-sig') as file:
+            with open("docs/playlist.m3u", "a", encoding='utf-8-sig') as file:
                 file.write(f'#EXTINF:-1 tvg-id="Adult.Programming.Dummy.us" tvg-name="{name}" tvg-logo="{CHANNEL_LOGO}" group-title="Adult 1",{name}\n')
                 file.write(f"{stream_url_with_referer}\n") # Write the URL with Referer
             print(f"✅ Found stream for {name}")
@@ -107,7 +107,7 @@ def server2(hash, name):
         data = res.json()
         token = data["fileUrl"]
         stream_url = f"https://moonlight.wideiptv.top/{name}/index.fmp4.m3u8?token={token}"
-        with open("docs/combined_playlist.m3u", "a", encoding='utf-8-sig') as file:
+        with open("docs/playlist.m3u", "a", encoding='utf-8-sig') as file:
             file.write(f'#EXTINF:-1 tvg-id="Adult.Programming.Dummy.us" tvg-name="{name}" tvg-logo="{CHANNEL_LOGO}" group-title="Adult 2",{name}\n')
             file.write(f"{stream_url}\n")
         print(f"✅ Found stream for {name}")
@@ -128,7 +128,7 @@ def server3(hash, name):
         data = res.json()
         token = data["fileUrl"]
         stream_url = f"https://moonlight.wideiptv.top/{name}/index.fmp4.m3u8?token={token}"
-        with open("docs/combined_playlist.m3u", "a", encoding='utf-8-sig') as file:
+        with open("docs/playlist.m3u", "a", encoding='utf-8-sig') as file:
             file.write(f'#EXTINF:-1 tvg-id="Adult.Programming.Dummy.us" tvg-name="{name}" tvg-logo="{CHANNEL_LOGO}" group-title="Adult 3",{name}\n')
             file.write(f"{stream_url}\n")
         print(f"✅ Found stream for {name}")
