@@ -138,12 +138,12 @@ def server3(hash, name):
 # --- Channel Lists (Unchanged) ---
 
 lis = [
-    "playboy","brazzerstv", "hustlerhd", "hustlertv", "penthouse", "redlight", "penthousepassion", 
+    "playboy", "hustlerhd", "hustlertv", "penthouse", "redlight", "penthousepassion", 
     "vivid", "dorcel", "superone", "oxax", "passie", "eroxxx", 
      "pinko", "extasy", "penthousereality", "kinoxxx", "pinkerotic", 
     "pinkerotic7", "pinkerotic8", "evilangel", "private", "beate", "meiden", 
     "centoxcento", "barelylegal", "venus", "freextv", "erox", "passion", 
-    "satisfaction", "jasmin", "fap", "olala", "miamitv",
+    "satisfaction", "jasmin", "fap", "olala", "miamitv", "brazzerstv", 
 ]
 
 # for Server 2
