@@ -144,6 +144,9 @@ lis = [
     "pinkerotic7", "pinkerotic8", "evilangel", "private", "beate", "meiden", 
     "centoxcento", "barelylegal", "venus", "freextv", "erox", "passion", 
     "satisfaction", "jasmin", "fap", "olala", "miamitv", "brazzerstv", 
+    "babes", "xymax", "xyplus", "xymix", "xxl", "bluehustler", 
+    "pinkerotic2", "pinkerotic3", "pinkerotic4", "pinkerotic5", "pinkerotic6", "naughty", 
+    "russian",  
 ]
 
 # for Server 2
