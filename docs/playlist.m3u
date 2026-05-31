@@ -1,75 +1,75 @@
 ﻿#EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_DUMMY_CHANNELS.xml.gz"
-# Playlist Generated: 2026-05-31T17:28:23.432396
+# Playlist Generated: 2026-05-31T17:48:18.722815
 #EXTINF:-1 tvg-id="Adult.Programming.Dummy.us" tvg-name="playboy" tvg-logo="https://github.com/BuddyChewChew/gen-playlist/blob/main/docs/ch.png?raw=true" group-title="Adult 1",playboy
-https://aistr.xyz:28791/hls/playboy/playlist.m3u8?e=1780252103&st=aziDlz6JG3n2Nk-gD9TFnQ|Referer=https://adult-tv-channels.com/
+https://aistr.xyz:28791/hls/playboy/playlist.m3u8?e=1780253299&st=bd97_GS_6vzuQTG6FUzU_g|Referer=https://adult-tv-channels.com/
 #EXTINF:-1 tvg-id="Adult.Programming.Dummy.us" tvg-name="hustlerhd" tvg-logo="https://github.com/BuddyChewChew/gen-playlist/blob/main/docs/ch.png?raw=true" group-title="Adult 1",hustlerhd
-https://aistr.xyz:28791/hls/hustlerhd/playlist.m3u8?e=1780252104&st=eshO0kTeeokGUuX0DSA0Yg|Referer=https://adult-tv-channels.com/
+https://aistr.xyz:28791/hls/hustlerhd/playlist.m3u8?e=1780253300&st=QUecsrc8J_AhUKGyVrUArQ|Referer=https://adult-tv-channels.com/
 #EXTINF:-1 tvg-id="Adult.Programming.Dummy.us" tvg-name="hustlertv" tvg-logo="https://github.com/BuddyChewChew/gen-playlist/blob/main/docs/ch.png?raw=true" group-title="Adult 1",hustlertv
-https://aistr.xyz:28791/hls/hustlertv/playlist.m3u8?e=1780252104&st=eshO0kTeeokGUuX0DSA0Yg|Referer=https://adult-tv-channels.com/
+https://aistr.xyz:28791/hls/hustlertv/playlist.m3u8?e=1780253300&st=QUecsrc8J_AhUKGyVrUArQ|Referer=https://adult-tv-channels.com/
 #EXTINF:-1 tvg-id="Adult.Programming.Dummy.us" tvg-name="penthouse" tvg-logo="https://github.com/BuddyChewChew/gen-playlist/blob/main/docs/ch.png?raw=true" group-title="Adult 1",penthouse
-https://aistr.xyz:28791/hls/penthouse/playlist.m3u8?e=1780252104&st=eshO0kTeeokGUuX0DSA0Yg|Referer=https://adult-tv-channels.com/
+https://aistr.xyz:28791/hls/penthouse/playlist.m3u8?e=1780253300&st=QUecsrc8J_AhUKGyVrUArQ|Referer=https://adult-tv-channels.com/
 #EXTINF:-1 tvg-id="Adult.Programming.Dummy.us" tvg-name="penthousepassion" tvg-logo="https://github.com/BuddyChewChew/gen-playlist/blob/main/docs/ch.png?raw=true" group-title="Adult 1",penthousepassion
-https://aistr.xyz:28791/hls/penthousepassion/playlist.m3u8?e=1780252104&st=eshO0kTeeokGUuX0DSA0Yg|Referer=https://adult-tv-channels.com/
+https://aistr.xyz:28791/hls/penthousepassion/playlist.m3u8?e=1780253301&st=gOPx8MXNv8noQJrwJVgijQ|Referer=https://adult-tv-channels.com/
 #EXTINF:-1 tvg-id="Adult.Programming.Dummy.us" tvg-name="vivid" tvg-logo="https://github.com/BuddyChewChew/gen-playlist/blob/main/docs/ch.png?raw=true" group-title="Adult 1",vivid
-https://aistr.xyz:28791/hls/vivid/playlist.m3u8?e=1780252105&st=0_kYzrtWx72dZxDexkqDqQ|Referer=https://adult-tv-channels.com/
+https://aistr.xyz:28791/hls/vivid/playlist.m3u8?e=1780253301&st=gOPx8MXNv8noQJrwJVgijQ|Referer=https://adult-tv-channels.com/
 #EXTINF:-1 tvg-id="Adult.Programming.Dummy.us" tvg-name="dorcel" tvg-logo="https://github.com/BuddyChewChew/gen-playlist/blob/main/docs/ch.png?raw=true" group-title="Adult 1",dorcel
-https://aistr.xyz:28791/hls/dorcel/playlist.m3u8?e=1780252105&st=0_kYzrtWx72dZxDexkqDqQ|Referer=https://adult-tv-channels.com/
+https://aistr.xyz:28791/hls/dorcel/playlist.m3u8?e=1780253302&st=Akp_fJ36fvrHjljvEEHQaw|Referer=https://adult-tv-channels.com/
 #EXTINF:-1 tvg-id="Adult.Programming.Dummy.us" tvg-name="superone" tvg-logo="https://github.com/BuddyChewChew/gen-playlist/blob/main/docs/ch.png?raw=true" group-title="Adult 1",superone
-https://aistr.xyz:28791/hls/superone/playlist.m3u8?e=1780252105&st=0_kYzrtWx72dZxDexkqDqQ|Referer=https://adult-tv-channels.com/
+https://aistr.xyz:28791/hls/superone/playlist.m3u8?e=1780253302&st=Akp_fJ36fvrHjljvEEHQaw|Referer=https://adult-tv-channels.com/
 #EXTINF:-1 tvg-id="Adult.Programming.Dummy.us" tvg-name="oxax" tvg-logo="https://github.com/BuddyChewChew/gen-playlist/blob/main/docs/ch.png?raw=true" group-title="Adult 1",oxax
-https://aistr.xyz:28791/hls/oxax/playlist.m3u8?e=1780252105&st=0_kYzrtWx72dZxDexkqDqQ|Referer=https://adult-tv-channels.com/
+https://aistr.xyz:28791/hls/oxax/playlist.m3u8?e=1780253302&st=Akp_fJ36fvrHjljvEEHQaw|Referer=https://adult-tv-channels.com/
 #EXTINF:-1 tvg-id="Adult.Programming.Dummy.us" tvg-name="passie" tvg-logo="https://github.com/BuddyChewChew/gen-playlist/blob/main/docs/ch.png?raw=true" group-title="Adult 1",passie
-https://aistr.xyz:28791/hls/passie/playlist.m3u8?e=1780252105&st=0_kYzrtWx72dZxDexkqDqQ|Referer=https://adult-tv-channels.com/
+https://aistr.xyz:28791/hls/passie/playlist.m3u8?e=1780253302&st=Akp_fJ36fvrHjljvEEHQaw|Referer=https://adult-tv-channels.com/
 #EXTINF:-1 tvg-id="Adult.Programming.Dummy.us" tvg-name="eroxxx" tvg-logo="https://github.com/BuddyChewChew/gen-playlist/blob/main/docs/ch.png?raw=true" group-title="Adult 1",eroxxx
-https://aistr.xyz:28791/hls/eroxxx/playlist.m3u8?e=1780252106&st=5C3wN5I7cfcE_ibAte2lcQ|Referer=https://adult-tv-channels.com/
+https://aistr.xyz:28791/hls/eroxxx/playlist.m3u8?e=1780253303&st=a_F8RCRuVSHmx0Miqg9EYQ|Referer=https://adult-tv-channels.com/
 #EXTINF:-1 tvg-id="Adult.Programming.Dummy.us" tvg-name="pinko" tvg-logo="https://github.com/BuddyChewChew/gen-playlist/blob/main/docs/ch.png?raw=true" group-title="Adult 1",pinko
-https://aistr.xyz:28791/hls/pinko/playlist.m3u8?e=1780252106&st=5C3wN5I7cfcE_ibAte2lcQ|Referer=https://adult-tv-channels.com/
+https://aistr.xyz:28791/hls/pinko/playlist.m3u8?e=1780253303&st=a_F8RCRuVSHmx0Miqg9EYQ|Referer=https://adult-tv-channels.com/
 #EXTINF:-1 tvg-id="Adult.Programming.Dummy.us" tvg-name="extasy" tvg-logo="https://github.com/BuddyChewChew/gen-playlist/blob/main/docs/ch.png?raw=true" group-title="Adult 1",extasy
-https://aistr.xyz:28791/hls/extasy/playlist.m3u8?e=1780252106&st=5C3wN5I7cfcE_ibAte2lcQ|Referer=https://adult-tv-channels.com/
+https://aistr.xyz:28791/hls/extasy/playlist.m3u8?e=1780253303&st=a_F8RCRuVSHmx0Miqg9EYQ|Referer=https://adult-tv-channels.com/
 #EXTINF:-1 tvg-id="Adult.Programming.Dummy.us" tvg-name="penthousereality" tvg-logo="https://github.com/BuddyChewChew/gen-playlist/blob/main/docs/ch.png?raw=true" group-title="Adult 1",penthousereality
-https://aistr.xyz:28791/hls/penthousereality/playlist.m3u8?e=1780252106&st=5C3wN5I7cfcE_ibAte2lcQ|Referer=https://adult-tv-channels.com/
+https://aistr.xyz:28791/hls/penthousereality/playlist.m3u8?e=1780253303&st=a_F8RCRuVSHmx0Miqg9EYQ|Referer=https://adult-tv-channels.com/
 #EXTINF:-1 tvg-id="Adult.Programming.Dummy.us" tvg-name="kinoxxx" tvg-logo="https://github.com/BuddyChewChew/gen-playlist/blob/main/docs/ch.png?raw=true" group-title="Adult 1",kinoxxx
-https://aistr.xyz:28791/hls/kinoxxx/playlist.m3u8?e=1780252107&st=nTmVHJaV6IL4RdLpLw7RYA|Referer=https://adult-tv-channels.com/
+https://aistr.xyz:28791/hls/kinoxxx/playlist.m3u8?e=1780253304&st=0RN-TV9gB9Y8Qw_xK8sgpw|Referer=https://adult-tv-channels.com/
 #EXTINF:-1 tvg-id="Adult.Programming.Dummy.us" tvg-name="pinkerotic" tvg-logo="https://github.com/BuddyChewChew/gen-playlist/blob/main/docs/ch.png?raw=true" group-title="Adult 1",pinkerotic
-https://aistr.xyz:28791/hls/pinkerotic1/playlist.m3u8?e=1780252107&st=nTmVHJaV6IL4RdLpLw7RYA|Referer=https://adult-tv-channels.com/
+https://aistr.xyz:28791/hls/pinkerotic1/playlist.m3u8?e=1780253304&st=0RN-TV9gB9Y8Qw_xK8sgpw|Referer=https://adult-tv-channels.com/
 #EXTINF:-1 tvg-id="Adult.Programming.Dummy.us" tvg-name="pinkerotic7" tvg-logo="https://github.com/BuddyChewChew/gen-playlist/blob/main/docs/ch.png?raw=true" group-title="Adult 1",pinkerotic7
-https://aistr.xyz:28791/hls/pinkerotic7/playlist.m3u8?e=1780252107&st=nTmVHJaV6IL4RdLpLw7RYA|Referer=https://adult-tv-channels.com/
+https://aistr.xyz:28791/hls/pinkerotic7/playlist.m3u8?e=1780253304&st=0RN-TV9gB9Y8Qw_xK8sgpw|Referer=https://adult-tv-channels.com/
 #EXTINF:-1 tvg-id="Adult.Programming.Dummy.us" tvg-name="pinkerotic8" tvg-logo="https://github.com/BuddyChewChew/gen-playlist/blob/main/docs/ch.png?raw=true" group-title="Adult 1",pinkerotic8
-https://aistr.xyz:28791/hls/pinkerotic8/playlist.m3u8?e=1780252107&st=nTmVHJaV6IL4RdLpLw7RYA|Referer=https://adult-tv-channels.com/
+https://aistr.xyz:28791/hls/pinkerotic8/playlist.m3u8?e=1780253305&st=45F5KYsh2a1UgVLCasxkKQ|Referer=https://adult-tv-channels.com/
 #EXTINF:-1 tvg-id="Adult.Programming.Dummy.us" tvg-name="evilangel" tvg-logo="https://github.com/BuddyChewChew/gen-playlist/blob/main/docs/ch.png?raw=true" group-title="Adult 1",evilangel
-https://aistr.xyz:28791/hls/evilangel/playlist.m3u8?e=1780252108&st=kaQ03WhCX8kcLhyDCR01sw|Referer=https://adult-tv-channels.com/
+https://aistr.xyz:28791/hls/evilangel/playlist.m3u8?e=1780253305&st=45F5KYsh2a1UgVLCasxkKQ|Referer=https://adult-tv-channels.com/
 #EXTINF:-1 tvg-id="Adult.Programming.Dummy.us" tvg-name="private" tvg-logo="https://github.com/BuddyChewChew/gen-playlist/blob/main/docs/ch.png?raw=true" group-title="Adult 1",private
-https://aistr.xyz:28791/hls/private/playlist.m3u8?e=1780252108&st=kaQ03WhCX8kcLhyDCR01sw|Referer=https://adult-tv-channels.com/
+https://aistr.xyz:28791/hls/private/playlist.m3u8?e=1780253305&st=45F5KYsh2a1UgVLCasxkKQ|Referer=https://adult-tv-channels.com/
 #EXTINF:-1 tvg-id="Adult.Programming.Dummy.us" tvg-name="meiden" tvg-logo="https://github.com/BuddyChewChew/gen-playlist/blob/main/docs/ch.png?raw=true" group-title="Adult 1",meiden
-https://aistr.xyz:28791/hls/meidenvanholland/playlist.m3u8?e=1780252108&st=kaQ03WhCX8kcLhyDCR01sw|Referer=https://adult-tv-channels.com/
+https://aistr.xyz:28791/hls/meidenvanholland/playlist.m3u8?e=1780253306&st=DIcZx3ttK5yrX-Fi1TqAhA|Referer=https://adult-tv-channels.com/
 #EXTINF:-1 tvg-id="Adult.Programming.Dummy.us" tvg-name="centoxcento" tvg-logo="https://github.com/BuddyChewChew/gen-playlist/blob/main/docs/ch.png?raw=true" group-title="Adult 1",centoxcento
-https://aistr.xyz:28791/hls/cento/playlist.m3u8?e=1780252108&st=kaQ03WhCX8kcLhyDCR01sw|Referer=https://adult-tv-channels.com/
+https://aistr.xyz:28791/hls/cento/playlist.m3u8?e=1780253306&st=DIcZx3ttK5yrX-Fi1TqAhA|Referer=https://adult-tv-channels.com/
 #EXTINF:-1 tvg-id="Adult.Programming.Dummy.us" tvg-name="barelylegal" tvg-logo="https://github.com/BuddyChewChew/gen-playlist/blob/main/docs/ch.png?raw=true" group-title="Adult 1",barelylegal
-https://aistr.xyz:28791/hls/barely/playlist.m3u8?e=1780252109&st=3BqKvO9H_IDfihWflX296A|Referer=https://adult-tv-channels.com/
+https://aistr.xyz:28791/hls/barely/playlist.m3u8?e=1780253306&st=DIcZx3ttK5yrX-Fi1TqAhA|Referer=https://adult-tv-channels.com/
 #EXTINF:-1 tvg-id="Adult.Programming.Dummy.us" tvg-name="venus" tvg-logo="https://github.com/BuddyChewChew/gen-playlist/blob/main/docs/ch.png?raw=true" group-title="Adult 1",venus
-https://aistr.xyz:28791/hls/venus/playlist.m3u8?e=1780252109&st=3BqKvO9H_IDfihWflX296A|Referer=https://adult-tv-channels.com/
+https://aistr.xyz:28791/hls/venus/playlist.m3u8?e=1780253306&st=DIcZx3ttK5yrX-Fi1TqAhA|Referer=https://adult-tv-channels.com/
 #EXTINF:-1 tvg-id="Adult.Programming.Dummy.us" tvg-name="erox" tvg-logo="https://github.com/BuddyChewChew/gen-playlist/blob/main/docs/ch.png?raw=true" group-title="Adult 1",erox
-http://he11o.akadatel.com/iptv/BK6T26M4XU77RU/6196/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8zMS8yMDI2IDU6Mjg6MjkgUE0maGFzaF92YWx1ZT02TWwyb05Dc0ttYUNFa2dZNHZZMEt3PT0mdmFsaWRtaW51dGVzPTYw|Referer=https://adult-tv-channels.com/
+http://he11o.akadatel.com/iptv/BK6T26M4XU77RU/6196/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8zMS8yMDI2IDU6NDg6MjcgUE0maGFzaF92YWx1ZT0xeCthbVc5RkZsWVZqSy9TZGNCYm9BPT0mdmFsaWRtaW51dGVzPTYw|Referer=https://adult-tv-channels.com/
 #EXTINF:-1 tvg-id="Adult.Programming.Dummy.us" tvg-name="passion" tvg-logo="https://github.com/BuddyChewChew/gen-playlist/blob/main/docs/ch.png?raw=true" group-title="Adult 1",passion
-https://aistr.xyz:28791/hls/passion/playlist.m3u8?e=1780252109&st=3BqKvO9H_IDfihWflX296A|Referer=https://adult-tv-channels.com/
+https://aistr.xyz:28791/hls/passion/playlist.m3u8?e=1780253307&st=RYMuv5NrKrwdRy882dXFdA|Referer=https://adult-tv-channels.com/
 #EXTINF:-1 tvg-id="Adult.Programming.Dummy.us" tvg-name="satisfaction" tvg-logo="https://github.com/BuddyChewChew/gen-playlist/blob/main/docs/ch.png?raw=true" group-title="Adult 1",satisfaction
-https://aistr.xyz:28791/hls/satisfaction/playlist.m3u8?e=1780252109&st=3BqKvO9H_IDfihWflX296A|Referer=https://adult-tv-channels.com/
+https://aistr.xyz:28791/hls/satisfaction/playlist.m3u8?e=1780253308&st=ZK0bBALgPHpLOUioQp_Hvw|Referer=https://adult-tv-channels.com/
 #EXTINF:-1 tvg-id="Adult.Programming.Dummy.us" tvg-name="jasmin" tvg-logo="https://github.com/BuddyChewChew/gen-playlist/blob/main/docs/ch.png?raw=true" group-title="Adult 1",jasmin
-http://109.71.162.112/live/sd.jasminchannel.stream/chunklist_w233748568.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8zMS8yMDI2IDU6Mjg6MzAgUE0maGFzaF92YWx1ZT01QUVmcjF1bjFOMFl2SUNKVzBHaTh3PT0mdmFsaWRtaW51dGVzPTYw|Referer=https://adult-tv-channels.com/
+http://109.71.162.112/live/sd.jasminchannel.stream/chunklist_w233748568.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8zMS8yMDI2IDU6NDg6MjggUE0maGFzaF92YWx1ZT0rVzZ4TVN6WU4xanFrY3BCOExMWllRPT0mdmFsaWRtaW51dGVzPTYw|Referer=https://adult-tv-channels.com/
 #EXTINF:-1 tvg-id="Adult.Programming.Dummy.us" tvg-name="fap" tvg-logo="https://github.com/BuddyChewChew/gen-playlist/blob/main/docs/ch.png?raw=true" group-title="Adult 1",fap
-https://aistr.xyz:28791/hls/fap/playlist.m3u8?e=1780252110&st=DYt8BqGcDGOGRai6W5CP1Q|Referer=https://adult-tv-channels.com/
+https://aistr.xyz:28791/hls/fap/playlist.m3u8?e=1780253308&st=ZK0bBALgPHpLOUioQp_Hvw|Referer=https://adult-tv-channels.com/
 #EXTINF:-1 tvg-id="Adult.Programming.Dummy.us" tvg-name="olala" tvg-logo="https://github.com/BuddyChewChew/gen-playlist/blob/main/docs/ch.png?raw=true" group-title="Adult 1",olala
-https://aistr.xyz:28791/hls/olala/playlist.m3u8?e=1780252110&st=DYt8BqGcDGOGRai6W5CP1Q|Referer=https://adult-tv-channels.com/
+https://aistr.xyz:28791/hls/olala/playlist.m3u8?e=1780253308&st=ZK0bBALgPHpLOUioQp_Hvw|Referer=https://adult-tv-channels.com/
 #EXTINF:-1 tvg-id="Adult.Programming.Dummy.us" tvg-name="miamitv" tvg-logo="https://github.com/BuddyChewChew/gen-playlist/blob/main/docs/ch.png?raw=true" group-title="Adult 1",miamitv
-http://sdn-global-live-streaming-packager-cache-3qsdn.akamaized.net/9528/9528_264_live.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8zMS8yMDI2IDU6Mjg6MzAgUE0maGFzaF92YWx1ZT01QUVmcjF1bjFOMFl2SUNKVzBHaTh3PT0mdmFsaWRtaW51dGVzPTYw|Referer=https://adult-tv-channels.com/
+http://sdn-global-live-streaming-packager-cache-3qsdn.akamaized.net/9528/9528_264_live.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8zMS8yMDI2IDU6NDg6MjkgUE0maGFzaF92YWx1ZT03NFI4bTl1ZmRrSDBXSDJQRENvTHV3PT0mdmFsaWRtaW51dGVzPTYw|Referer=https://adult-tv-channels.com/
 #EXTINF:-1 tvg-id="Adult.Programming.Dummy.us" tvg-name="xxl" tvg-logo="https://github.com/BuddyChewChew/gen-playlist/blob/main/docs/ch.png?raw=true" group-title="Adult 1",xxl
-https://aistr.xyz:28791/hls/xxl/playlist.m3u8?e=1780252111&st=ebE75digvFvuAXssEFybqA|Referer=https://adult-tv-channels.com/
+https://aistr.xyz:28791/hls/xxl/playlist.m3u8?e=1780253310&st=ndpGA5yPsKSBEl0pbK2AJA|Referer=https://adult-tv-channels.com/
 #EXTINF:-1 tvg-id="Adult.Programming.Dummy.us" tvg-name="bluehustler" tvg-logo="https://github.com/BuddyChewChew/gen-playlist/blob/main/docs/ch.png?raw=true" group-title="Adult 1",bluehustler
-https://aistr.xyz:28791/hls/bluehustler/playlist.m3u8?e=1780252111&st=ebE75digvFvuAXssEFybqA|Referer=https://adult-tv-channels.com/
+https://aistr.xyz:28791/hls/bluehustler/playlist.m3u8?e=1780253310&st=ndpGA5yPsKSBEl0pbK2AJA|Referer=https://adult-tv-channels.com/
 #EXTINF:-1 tvg-id="Adult.Programming.Dummy.us" tvg-name="pinkerotic2" tvg-logo="https://github.com/BuddyChewChew/gen-playlist/blob/main/docs/ch.png?raw=true" group-title="Adult 1",pinkerotic2
-https://aistr.xyz:28791/hls/pinkerotic2/playlist.m3u8?e=1780252112&st=KjC8OFcxipjJM-rLdiLKUw|Referer=https://adult-tv-channels.com/
+https://aistr.xyz:28791/hls/pinkerotic2/playlist.m3u8?e=1780253310&st=ndpGA5yPsKSBEl0pbK2AJA|Referer=https://adult-tv-channels.com/
 #EXTINF:-1 tvg-id="Adult.Programming.Dummy.us" tvg-name="pinkerotic3" tvg-logo="https://github.com/BuddyChewChew/gen-playlist/blob/main/docs/ch.png?raw=true" group-title="Adult 1",pinkerotic3
-https://aistr.xyz:28791/hls/pinkerotic3/playlist.m3u8?e=1780252112&st=KjC8OFcxipjJM-rLdiLKUw|Referer=https://adult-tv-channels.com/
+https://aistr.xyz:28791/hls/pinkerotic3/playlist.m3u8?e=1780253311&st=Ifn2qQYzu0ruXU4x46sV0g|Referer=https://adult-tv-channels.com/
 #EXTINF:-1 tvg-id="Adult.Programming.Dummy.us" tvg-name="pinkerotic4" tvg-logo="https://github.com/BuddyChewChew/gen-playlist/blob/main/docs/ch.png?raw=true" group-title="Adult 1",pinkerotic4
 https://webtvstream.bhtelecom.ba/pink_erotic4.m3u8|Referer=https://adult-tv-channels.com/
 #EXTINF:-1 tvg-id="Adult.Programming.Dummy.us" tvg-name="pinkerotic5" tvg-logo="https://github.com/BuddyChewChew/gen-playlist/blob/main/docs/ch.png?raw=true" group-title="Adult 1",pinkerotic5
@@ -77,6 +77,6 @@ https://webtvstream.bhtelecom.ba/pink_erotic5.m3u8|Referer=https://adult-tv-chan
 #EXTINF:-1 tvg-id="Adult.Programming.Dummy.us" tvg-name="pinkerotic6" tvg-logo="https://github.com/BuddyChewChew/gen-playlist/blob/main/docs/ch.png?raw=true" group-title="Adult 1",pinkerotic6
 https://webtvstream.bhtelecom.ba/pink_erotic6.m3u8|Referer=https://adult-tv-channels.com/
 #EXTINF:-1 tvg-id="Adult.Programming.Dummy.us" tvg-name="naughty" tvg-logo="https://github.com/BuddyChewChew/gen-playlist/blob/main/docs/ch.png?raw=true" group-title="Adult 1",naughty
-https://aistr.xyz:28791/hls/shalun/playlist.m3u8?e=1780252112&st=KjC8OFcxipjJM-rLdiLKUw|Referer=https://adult-tv-channels.com/
+https://aistr.xyz:28791/hls/shalun/playlist.m3u8?e=1780253312&st=JYbBH8XP4mAnE6rNpGDGng|Referer=https://adult-tv-channels.com/
 #EXTINF:-1 tvg-id="Adult.Programming.Dummy.us" tvg-name="russian" tvg-logo="https://github.com/BuddyChewChew/gen-playlist/blob/main/docs/ch.png?raw=true" group-title="Adult 1",russian
-https://aistr.xyz:28791/hls/russian/playlist.m3u8?e=1780252113&st=i5ygWbazawmBRATXFuf0-w|Referer=https://adult-tv-channels.com/
+https://aistr.xyz:28791/hls/russian/playlist.m3u8?e=1780253312&st=JYbBH8XP4mAnE6rNpGDGng|Referer=https://adult-tv-channels.com/
